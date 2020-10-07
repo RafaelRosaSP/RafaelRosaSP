@@ -5,6 +5,7 @@ Hi, I'm Rafael!
 
 
 About me
+
 I'm a Junior Programmer {backend, frontend}
 
 Courses 👨🏼‍🏫 - It's are technical courses on many technologies, such as PhP, Angular, Python, Git, PHP5, CSS and more
